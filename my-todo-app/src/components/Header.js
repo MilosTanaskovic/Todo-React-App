@@ -7,7 +7,7 @@ const Header = () => {
           <h1>Dancing With The React - Todo App</h1>        
    </header>
    <div>
-   <a href="" className='source-code'>Source Code</a>
+   <a href="https://github.com/MilosTanaskovic/Todo-React-App/tree/master/my-todo-app" target="_blank" className='source-code'>Source Code(Git)</a>
    </div>
    
    </>
